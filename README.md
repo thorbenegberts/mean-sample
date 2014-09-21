@@ -1,4 +1,1 @@
-mean-sample
-===========
-
-A sample for mean.io
+A sample for [MEAN stack](http://mean.io/) generated with [yeoman](http://yeoman.io/) using the [mean stack generator](https://github.com/wlepinski/generator-meanstack) (based on the generator for [AngularJS](https://github.com/yeoman/generator-angular))
